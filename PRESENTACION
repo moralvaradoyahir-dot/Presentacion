@@ -1,9 +1,8 @@
 <!DOCTYPE html>
 <html>
-<head>
+<head> charset"UTF-8"
 	<title>presentacion</title>
-	<link rel="stylesheet" href="estilos.css">
-</head>
+	<link rel="stylesheet" href="css/Styles-css"></head>
 <body>
 	<header>
 		<h1>presentacion </h1>
@@ -20,7 +19,7 @@
 		<p>Esta es una página web sencilla creada con HTML y CSS.</p>
 	</main>
 	<footer>
-		<p>&copy; 2023 Mi página web</p>
+		<p>&copy;b</p>
 	</footer>
 </body>
 </html>
