@@ -1,18 +1,18 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title> </presentacion>
-	<link rel="stylesheet" href="css/Sstyles.css">
+	<title>presentacion</title>
+	<link rel="stylesheet" href="estilos.css">
 </head>
 <body>
 	<header>
-		<h1>mi nombre es yahir soy estudiante de ingenieria</h1>
+		<h1>presentacion </h1>
 	</header>
 	<nav>
 		<ul>
 			<li><a href="                  
-			<li><a href="#">Acerca de</a></li>
-			<li><a href="#">Contacto</a></li>
+			<li><a href="#"></a></li>
+			<li><a href="#">soy estudiante de universidades</a></li>
 		</ul>
 	</nav>
 	<main>
