@@ -1,12 +1,12 @@
 <!DOCTYPE html>
-<html>
-<head>
-	<title>Mi página web</title>
-	<link rel="stylesheet" href="estilos.css">
+<html>land"es"
+<head>charset="UTF-8"
+	<title>"viewport"</presentacion>
+	<link rel="stylesheet" href="css/Sstyles.css">
 </head>
 <body>
 	<header>
-		<h1>Mi página web</h1>
+		<h1>mi nombre es yahir soy estudiante de ingenieria</h1>
 	</header>
 	<nav>
 		<ul>
