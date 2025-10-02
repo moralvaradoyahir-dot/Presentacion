@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Mi página web</title>
+	<link rel="stylesheet" href="estilos.css">
+</head>
+<body>
+	<header>
+		<h1>Mi página web</h1>
+	</header>
+	<nav>
+		<ul>
+			<li><a href="                  
+			<li><a href="#">Acerca de</a></li>
+			<li><a href="#">Contacto</a></li>
+		</ul>
+	</nav>
+	<main>
+		<h2>Bienvenido a mi página web</h2>
+		<p>Esta es una página web sencilla creada con HTML y CSS.</p>
+	</main>
+	<footer>
+		<p>&copy; 2023 Mi página web</p>
+	</footer>
+</body>
+</html>
